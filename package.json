@@ -1,0 +1,9 @@
+{
+  "name": "js-atgmpu",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "alpine": "^0.2.1",
+    "tailwindcss": "^1.0.5"
+  }
+}
