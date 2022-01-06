@@ -14,7 +14,16 @@ hrml {
 body {
   font-family: 'Times New Roman', Times, serif;
 }
+body {
+  font-family: serif;
+}
 .small-header {
-  background-color: darkblue;
-  color: white;
+  background-color: #000b49;
+  color: #eee;
+  font-size: 10px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.small-header a {
+  padding: 7px;
 }
