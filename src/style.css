@@ -1,3 +1,20 @@
-h1, h2 {
+h1,
+h2 {
   font-family: Lato;
+}
+hrml {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+body {
+  font-family: 'Times New Roman', Times, serif;
+}
+.small-header {
+  background-color: darkblue;
+  color: white;
 }
